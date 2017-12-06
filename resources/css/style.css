@@ -3,9 +3,21 @@ h1 {font-family: Verdana;font-weight: normal; font-size: 50px;
 
 }
 
-body {background-color: black;
+body {background-color: black; text-align: center;
 
 }
-h2 {color: aquamarine; font-size: 16px; text-decoration: underline;text-align: center;
+.CTA {color: aquamarine; font-size: 16px; text-decoration: underline;text-align: center;
+
+}
+h2 {font-family: Verdana; font-weight: 300; font-size: 42px; color: white;
+
+}
+p {font-family: Verdana; font-size: 21px; color: grey;
+
+}
+h3 {font-family: Verdana; font-weight: 300; font-size: 42px; color: white;
+
+}
+.footer{font-family: Verdana; font-size: 21px; color: grey; text-align: right;
 
 }
